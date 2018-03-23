@@ -1,0 +1,2 @@
+this is an easy mapreduce job. The data file is access.log
+the goal is to count access times of each IP and sort the output by the last access date of each IP.
